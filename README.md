@@ -17,12 +17,16 @@ If you are developing a production application, we recommend using TypeScript wi
 
 
 # Netflix- GPT
--install node.js
+
+-install node.js 
+
 -install Vite
--configured tailwindcss in vite 
+
+-configured tailwindcss in vite
 
 
 # Features
+
 -Login/Sign Up
     -Sign In /Sign Up form 
     - redirect to Browse Page 
