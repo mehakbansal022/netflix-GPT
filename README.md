@@ -27,12 +27,18 @@ If you are developing a production application, we recommend using TypeScript wi
 
 # Features
 
--Login/Sign Up
+-Login/Sign Up 
+
     -Sign In /Sign Up form 
+
     - redirect to Browse Page 
+
 - Browse (after authentication)
+
     -Header
+
     -Main Movie
+    
         -Trailer in Background
         -Title & Description 
         -Movie Suggestions
