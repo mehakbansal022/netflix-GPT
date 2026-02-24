@@ -30,8 +30,35 @@ If you are developing a production application, we recommend using TypeScript wi
 -Login/Sign Up 
 
     -Sign In /Sign Up form 
-
-    - redirect to Browse Page 
+    - redirect to Browse 
+    -Header
+    - ROuting of App
+    -Login In form
+    -sign In / Sign Up form modification
+    -Form Validation
+    -useRef Hook
+    -Firebase setup 
+    -Deployed our app to production
+    -create SignUp user Account   
+    -Implement Sign In user API
+    -Create Redux Store with userSlices
+    -Implement SignOut
+    -Update Profile
+    -Bugfix: Sign Up user displayName and profile Update
+    -Bugfix : if the user is not logged in Redirect / browse to login page and vice-versa
+    -unSubscribe to onAuthStateChanged callback
+    -Add hardcoded values to constants file.
+    -Register TMDB API and create an app & get access token
+    -get data from TMDB now playing movie list API.
+    -Custom hook for now playing Movies 
+    -Create movieSlice
+    -update store with moives data
+    -planning for MainContainer and Secondary Container
+    -fetch data for trailer video
+    -update store with Trailer Video Data
+    -Embedded the YouTube video and make it autoplay and mute
+    -Tailwind classes to make Main Container Look awesome
+    -Building the Secondary Container
 
 - Browse (after authentication)
 

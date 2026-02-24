@@ -1,15 +1,17 @@
 //import { useState } from 'react'
+import { Provider } from 'react-redux'
+import Body from './components/Body.jsx'
+import appstore from './utils/appstore.jsx'
 
-import './App.css'
 
 function App() {
  // const [count, setCount] = useState(0)
 
-  return (
-    <>
-      <div className='text-3xl font-bold text-green-700'>
-        Namaste Everyone , Lets build Netflix-GPT Project!!
-      </div>
+  return (<>
+  <Provider store ={appstore}>
+    <Body/>
+  </Provider>
+     
     </>
   )
 }
