@@ -59,6 +59,11 @@ If you are developing a production application, we recommend using TypeScript wi
     -Embedded the YouTube video and make it autoplay and mute
     -Tailwind classes to make Main Container Look awesome
     -Building the Secondary Container
+    -Build Movie List
+    -Build Movie Card
+    -TMDB IMG CDN URL
+    -Make the Browse Page Amazing with Tailwind CSS
+    -usePopularMovies Custom Hook
 
 - Browse (after authentication)
 
