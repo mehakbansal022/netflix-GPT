@@ -64,6 +64,10 @@ If you are developing a production application, we recommend using TypeScript wi
     -TMDB IMG CDN URL
     -Make the Browse Page Amazing with Tailwind CSS
     -usePopularMovies Custom Hook
+    -GPT search Page
+    -GPT search Bar
+    -Add Multi-language feature in our app
+    
 
 - Browse (after authentication)
 
